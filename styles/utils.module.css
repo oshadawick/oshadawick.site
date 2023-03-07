@@ -50,3 +50,9 @@
 .lightText {
   color: #666;
 }
+
+.headingtext {
+  font-size: 1rem;
+  color: #414141;
+  text-align: center;
+}
